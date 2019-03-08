@@ -1,0 +1,40 @@
+immatriculationVehicule,dateAchatVehicule,kilometrageVehicule,modeleVehicule,puissanceVehicule,categorieVehicule,marqueVehicule,prixJournalierVehicule,prixkmVehicule,depotGarantieVehicule,typeCarburantVehicule,codeAgence
+AA-236-UGC,2.JUL.2017,62781,C-Class,340,Berline,Mercedes-Benz,0,0,0,diesel,7512022
+AB-530-SUM,21.MAR.2017,40844,Camaro,387,Berline,Chevrolet,1,1,1,diesel,9204803
+AD-699-URU,1.FEB.2018,28005,GL-Class,63,Berline,Mercedes-Benz,2,2,2,essence,7511903
+AE-607-WID,1.APR.2017,29404,Mazda5,173,Coupe,Mazda,3,3,3,essence,75115PD
+AH-669-NWY,11.APR.2017,45277,Tundra,319,Monospace,Toyota,4,4,4,essence,9204607
+AJ-253-ASE,7.MAY.2018,72634,F450,341,Coupe,Ford,5,5,5,essence,9202302
+AK-302-DXM,3.JAN.2018,28324,Cooper Countryman,293,Monospace,MINI,6,6,6,diesel,9401602
+AK-435-DYX,3.JAN.2017,20927,G-Class,160,Monospace,Mercedes-Benz,7,7,7,diesel,9401602
+AN-501-MTI,25.MAY.2017,31397,Frontier,64,Berline,Nissan,8,8,8,diesel,9164502
+AN-995-SQH,1.JUN.2017,45056,Lancer Evolution,75,Coupe,Mitsubishi,9,9,9,essence,9202505
+AP-489-QOS,18.SEP.2017,46490,Pilot,325,Berline,Honda,10,10,10,essence,7510501
+AQ-466-CDG,11.APR.2017,65064,LS,81,Berline,Lexus,11,11,11,essence,9205005
+AQ-747-THD,28.JUL.2017,27005,GTI,98,Coupe,Volkswagen,12,12,12,essence,9204607
+AS-789-VZE,11.FEB.2018,79987,Accent,325,Monospace,Hyundai,13,13,13,essence,9202406
+AX-269-CYB,10.JAN.2017,66645,Corvette,72,Monospace,Chevrolet,14,14,14,diesel,9202406
+AX-289-IXP,23.JAN.2017,15888,Golf,134,Berline,Volkswagen,15,15,15,essence,7510620
+AX-703-UMY,19.DEC.2017,77924,CR-Z,256,Coupe,Honda,16,16,16,diesel,9300603
+AY-560-IFC,17.JAN.2017,68750,Z4,237,Berline,BMW,17,17,17,essence,75115PD
+AZ-343-ZOI,10.MAY.2017,76376,G37,362,Berline,Infiniti,18,18,18,diesel,9205030
+BA-398-RAK,16.MAR.2017,61759,Mazda2,363,Monospace,Mazda,19,19,19,essence,9200413
+BA-999-RWN,2.FEB.2018,28221,MKX,270,Berline,Lincoln,20,20,20,diesel,9202505
+BC-671-FCQ,10.APR.2018,48425,Phantom,194,Berline,Rolls-Royce,21,21,21,essence,9202515
+BF-916-YPY,20.SEP.2017,32603,Prius c,148,Coupe,Toyota,22,22,22,diesel,9202505
+BH-623-WTR,10.JUN.2017,73132,CC,62,Coupe,Volkswagen,23,23,23,essence,9300113
+BH-687-GZA,21.JUL.2017,28352,Yukon XL 1500,111,Berline,GMC,24,24,24,essence,7511546
+BJ-182-QVG,10.JAN.2017,60659,Continental Flying Spur,359,Berline,Bentley,25,25,25,essence,9204607
+BJ-857-PSU,1.JAN.2017,79904,Traverse,288,Berline,Chevrolet,26,26,26,essence,9200902
+BK-641-GYG,2.JUL.2017,47221,Odyssey,186,Berline,Honda,27,27,27,essence,9307012
+BL-865-YTW,1.MAR.2018,64724,SLS-Class,84,Monospace,Mercedes-Benz,28,28,28,diesel,9202313
+BM-858-DQW,2.JAN.2018,42979,Patriot,232,Berline,Jeep,29,29,29,diesel,9164502
+BN-252-DDK,10.AUG.2018,49073,Sportage,212,Berline,Kia,30,30,30,diesel,9404204
+BN-268-LVP,26.OCT.2017,61055,CC,186,Monospace,Volkswagen,31,31,31,diesel,9304810
+BP-520-GXX,19.JAN.2017,16529,xB,94,Monospace,Scion,32,32,32,essence,9200413
+BP-717-KXB,16.JUL.2017,36948,Suburban 1500,375,Monospace,Chevrolet,33,33,33,essence,9401804
+BP-794-VNG,20.MAR.2017,50243,DBS,73,Berline,Aston Martin,34,34,34,diesel,9202515
+BR-803-GQO,17.FEB.2018,38172,Rapide,359,Berline,Aston Martin,35,35,35,diesel,75115PK
+BS-232-BNL,11.APR.2017,62887,NV2500,125,Berline,Nissan,36,36,36,diesel,9203506
+BS-446-JHG,1.APR.2017,46213,Highlander,167,Monospace,Toyota,37,37,37,diesel,75115PK
+BT-737-RFT,27.MAY.2018,5337,C30,149,Berline,Volvo,38,38,38,diesel,7510620
